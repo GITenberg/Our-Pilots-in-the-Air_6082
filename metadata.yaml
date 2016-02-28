@@ -1,0 +1,24 @@
+_repo: Our-Pilots-in-the-Air_6082
+creator:
+  author:
+    agent_name: Brown, William Perry
+    alias: Perry, William B.
+    birthdate: 1847
+    deathdate: 1923
+    gutenberg_agent_id: '8191'
+    url: http://www.gutenberg.org/2009/agents/8191
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: Our Pilots in the Air
+url: http://www.gutenberg.org/ebooks/6082
