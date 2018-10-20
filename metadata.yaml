@@ -1,5 +1,5 @@
 _repo: Our-Pilots-in-the-Air_6082
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
 title: Our Pilots in the Air
 url: http://www.gutenberg.org/ebooks/6082
